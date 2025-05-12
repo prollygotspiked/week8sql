@@ -1,4 +1,6 @@
+-----------------------------------------
 🗃️ Inventory Management System (SQL Project)
+==================================================
 📄 Description
 This SQL-based Inventory Management System helps manage product stock levels, categorize items, track suppliers, and monitor sales activity. It's a simple yet functional schema ideal for understanding basic database design and operations such as table relationships, inserting data, and performing queries.
 
